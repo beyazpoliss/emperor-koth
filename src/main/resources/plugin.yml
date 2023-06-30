@@ -1,0 +1,7 @@
+name: EmperorKoth
+version: 1.0.0
+main: com.beyazpoliss.emperor.koth.EmperorKoth
+api-version: 1.8
+author: BeyazPolis
+commands:
+  emperor-koth: {}
